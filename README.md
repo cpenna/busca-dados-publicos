@@ -5,8 +5,16 @@ Prototipo de busca de dados públicos
 
 O Cadastro Nacional da Pessoa Jurídica (CNPJ) é um banco de dados gerenciado pela Secretaria Especial da Receita Federal do Brasil (RFB), que armazena informações cadastrais das pessoas jurídicas e outras entidades de interesse das administrações tributárias da União, dos Estados, do Distrito Federal e dos Municípios.
 
-- **Referência:** [https://dados.gov.br/](https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica---cnpj)
+- Referência: [https://dados.gov.br/](https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica---cnpj)
 
-- **Fonte:** [https://arquivos.receitafederal.gov.br](https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/?C=N;O=D)
+- Fonte: [https://arquivos.receitafederal.gov.br](https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/?C=N;O=D)
 
-- **Atualização:** Mensal
+- Atualização: Mensal
+
+## CEPs do Brasil
+
+Webservice gratuito de alto desempenho para consulta de Código de Endereçamento Postal (CEP) do Brasil.
+
+- Referência: [https://viacep.com.br/](https://viacep.com.br/)
+
+- Fonte: [IBGE](https://cidades.ibge.gov.br/)
